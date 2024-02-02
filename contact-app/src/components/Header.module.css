@@ -1,0 +1,28 @@
+<<<<<<< HEAD
+.container {
+    margin: 50px 0;
+    text-align: center;
+}
+
+.container h1 {
+    color: #304ffe;
+    margin-bottom: 20px;
+}
+
+.container p {
+    color: gray;
+=======
+.container{
+    margin: 50px 0;
+    text-align: center;
+}
+
+.container h1{
+    color:#304ffe;
+    margin-bottom: 20px;
+}
+
+.container p{
+    color: gray;
+>>>>>>> 0a03c12a100c106fb01d2e549bc3d65ebbc297fb
+}
